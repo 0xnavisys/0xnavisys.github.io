@@ -1,6 +1,3 @@
-// @license GPL-3.0-or-later https://www.gnu.org/licenses/gpl-3.0.html
-// This file is index.js
-
 /**
  *
  * @source: http://www.lduros.net/some-javascript-source.js
